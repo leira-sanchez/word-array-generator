@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/word-array-generator/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/word-array-generator/static/js/main.bbd4b761.chunk.js",
+    "main.js.map": "/word-array-generator/static/js/main.bbd4b761.chunk.js.map",
+    "runtime-main.js": "/word-array-generator/static/js/runtime-main.5aba5e7a.js",
+    "runtime-main.js.map": "/word-array-generator/static/js/runtime-main.5aba5e7a.js.map",
+    "static/js/2.b73e87b0.chunk.js": "/word-array-generator/static/js/2.b73e87b0.chunk.js",
+    "static/js/2.b73e87b0.chunk.js.map": "/word-array-generator/static/js/2.b73e87b0.chunk.js.map",
+    "static/js/3.ef4a7d74.chunk.js": "/word-array-generator/static/js/3.ef4a7d74.chunk.js",
+    "static/js/3.ef4a7d74.chunk.js.map": "/word-array-generator/static/js/3.ef4a7d74.chunk.js.map",
+    "index.html": "/word-array-generator/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/word-array-generator/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b73e87b0.chunk.js.LICENSE.txt": "/word-array-generator/static/js/2.b73e87b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aba5e7a.js",
+    "static/js/2.b73e87b0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.bbd4b761.chunk.js"
+  ]
+}
